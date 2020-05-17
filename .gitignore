@@ -1,3 +1,15 @@
+# Files I added
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Automatically added by git below
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -96,14 +108,6 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
 
 # Spyder project settings
 .spyderproject
